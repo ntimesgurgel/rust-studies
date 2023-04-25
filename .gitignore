@@ -1,0 +1,6 @@
+*/**/target/
+*/**/target/*
+
+*/**/.gitignore
+*/**/.git/
+*/**/.git/*

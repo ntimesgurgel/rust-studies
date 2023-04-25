@@ -1,0 +1,4 @@
+[package]
+name = "package_rust"
+version = "0.0.1"
+authors = ["Nathan Gurgel <nathan.gurgel@ieee.org>"]
